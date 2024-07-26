@@ -8,7 +8,7 @@
 
 ## About me
 
-* 2022级信息安全本科在读
+* 2022级软件工程本科在读
 * 小镇做题家
 * 讨厌上课
 * 有时候做点项目
@@ -16,8 +16,8 @@
 
 ## Contact
 
-* 邮箱:cherrling2021@outlook.com
-* QQ:1255128007
+* 邮箱:Phantasia_March@outlook.com
+* QQ:1162030037
 * Telegram:[@Cherrling](https://t.me/cherrling)
 * Github:[Cherrling](https://github.com/cherrling)
 
