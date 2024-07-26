@@ -1,6 +1,7 @@
 * [Phantasia](phantasia/)
   * [sql注入速查](phantasia/sql-note.md)
   * [vscode快捷键速查](phantasia/vscode-hotkeys.md)
+  * [Springboot3.x使用swagger](phantasia/Springboot3-Swagger.md)
 * [Cherrling](cherrling/)
   * [机场相关及使用说明](cherrling/v2.md)
   * [linux命令速查](cherrling/linux.md)
