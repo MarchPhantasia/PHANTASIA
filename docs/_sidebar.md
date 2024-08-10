@@ -2,6 +2,8 @@
   * [sql注入速查](phantasia/sql-note.md)
   * [vscode快捷键速查](phantasia/vscode-hotkeys.md)
   * [Springboot3.x使用swagger](phantasia/Springboot3-Swagger.md)
+  * [IDEA快捷键速查(win&osX)](phantasia/idea-hotkeys-win-mac.html)
+  * [夢——八月十一](phantasia/8.11.md)
 * [Cherrling](cherrling/)
   * [机场相关及使用说明](cherrling/v2.md)
   * [linux命令速查](cherrling/linux.md)
